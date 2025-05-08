@@ -8,3 +8,4 @@ joblib
 scikit-learn
 matplotlib
 seaborn
+opencv-python
