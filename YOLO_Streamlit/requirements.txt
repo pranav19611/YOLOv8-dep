@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-opencv-python
+opencv-python-headless
 Pillow
 pandas
 numpy
@@ -8,4 +8,3 @@ joblib
 scikit-learn
 matplotlib
 seaborn
-opencv-python
