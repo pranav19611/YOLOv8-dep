@@ -5,7 +5,7 @@ from ultralytics import YOLO
 # Load model once
 @st.cache_resource
 def load_model():
-    model = YOLO("C:/Users/prana/Desktop/YOLO_Streamlit\best.pt")  # 🔁 Make sure your .pt file is named like this
+    model = YOLO("C:/Users/prana/Desktop/YOLO_Streamlit/best.pt")  # 🔁 Make sure your .pt file is named like this
     return model
 
 model = load_model()
